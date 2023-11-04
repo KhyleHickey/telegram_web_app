@@ -1,1 +1,11 @@
+{
+    ...
 
+    "apps": {
+        "my_app": {
+            "class": "mini_apps.apps.my_app.MyApp",
+            "bot-token": "5608494768:AAFapGz-cDWm3Tmpu3olwy31cCxnGAjcZRI",
+            "url": "https://miniapps.example.com/my_app/"
+        }
+    }
+}
